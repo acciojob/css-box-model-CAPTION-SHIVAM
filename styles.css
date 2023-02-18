@@ -1,2 +1,11 @@
-
+.box{
+	border :15px solid blue;
+	padding:50px;
+	background:lightblue;
+	
+}
+.con{
+	color:black;
+/* 	width:300px; */
+}
 /* Your CSS Code here. */
